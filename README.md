@@ -25,5 +25,5 @@ Creating a simple "class":
 		}
 	});
 
-var bird1 = new Bird('Pigeon');
-console.log( bird1.getName() ); // Hi Pigeon
+	var bird1 = new Bird('Pigeon');
+	console.log( bird1.getName() ); // Hi Pigeon
