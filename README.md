@@ -18,7 +18,7 @@ Creating a simple "class":
 
 
 	var Bird = daClass(Animal, {
-		// Constructor
+		// The Constructor
 		init: function(name){
 			this.super(arguments);
 			this.name = "Hi " + this.name ;
